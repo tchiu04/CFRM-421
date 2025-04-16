@@ -1,5 +1,5 @@
-CFRM 521/421, Machine Learning for Finance,
-<br>Quarter: Spring 2025
+<p style="text-align:center;">CFRM 521/421, Machine Learning for Finance,
+<br><br>Quarter: Spring 2025
 <br>Instructor: Yoshihiro Shirai
 <br>Email address: yshirai@uw.edu
 
