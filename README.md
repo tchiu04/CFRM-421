@@ -1,16 +1,16 @@
 CFRM 521/421, Machine Learning for Finance,
-Quarter: Spring 2025
-Instructor: Yoshihiro Shirai
-Email address: yshirai@uw.edu
+<br>Quarter: Spring 2025
+<br>Instructor: Yoshihiro Shirai
+<br>Email address: yshirai@uw.edu
 
 Office Hours: Th 5-6 pm (online)
-Teaching Assistant: Arjun Sethi-Olowin
-TA Email address: as12@uw.edu
-TA Office Hours: TBA
-Teaching Assistant: Katherine Johnston
-TA Email address: kjohnst@uw.edu
-TA Office Hours: by appointment
-Lectures: TTh 3:30 pm - 4:50 pm, HCK 132.
+<br>Teaching Assistant: Arjun Sethi-Olowin
+<br>TA Email address: as12@uw.edu
+<br>TA Office Hours: TBA
+<br>Teaching Assistant: Katherine Johnston
+<br>TA Email address: kjohnst@uw.edu
+<br>TA Office Hours: by appointment
+<br>Lectures: TTh 3:30 pm - 4:50 pm, HCK 132.
 
 Course description: This course is an introduction to machine learning for an audience with a
 background in quantitative finance. The course focuses on attaining both a theoretical understand-
@@ -35,4 +35,4 @@ The following textbook is recommended:
 • G ́eron, A. Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow, 3rd edition,
 O’Reilly, 2022. The electronic version can be obtained from the textbook website through
 the UW Library
-The course material will follow this textbook very closely.
+<br>The course material will follow this textbook very closely.
