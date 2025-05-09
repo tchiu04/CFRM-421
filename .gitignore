@@ -1,0 +1,49 @@
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and debug files
+*.log
+*.tmp
+*.swp
+
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Test/coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+*.cover
+*.py,cover
+.cache/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# MyPy and Pyright
+.mypy_cache/
+.pyright/
+
+# Others
+*.sqlite3
+*.db
